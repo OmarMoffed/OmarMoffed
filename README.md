@@ -1,6 +1,6 @@
 
-  #### Hi there, It's Omar 👋👀
-I'm a Data wizard by day, coffee-fueled code sorcerer by night, unraveling the mysteries of data like a detective with a spreadsheet 📊<br>
+  #### Hello World, It's Omar 👋👀
+I'm a Data wizard by day, a coffee-fueled code sorcerer by night, unraveling the mysteries of data like a detective with a spreadsheet 📊<br>
 Turning caffeine into insights, I dance with datasets and charm algorithms. If data were a language, I'd be its most charismatic translator 💞️✨
 - 📫 Email: mr.omarmoffed@gmail.com
 - 📱 Phone: +966 54 489 0609
