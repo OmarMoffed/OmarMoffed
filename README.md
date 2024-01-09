@@ -28,6 +28,7 @@ Turning caffeine into insights, I dance with datasets and charm algorithms. If d
 #### Let's have a coffee together :speech_balloon:
 <a href="mailto:mr.omarmoffed@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-red?style=flat&labelColor=red&logo=mail.ru&logoColor=white" alt="mr.omarmoffed@gmail.com"></a>
 <a href="https://www.linkedin.com/in/OmarMoffed" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.behance.com/omarmoffed/" target="_blank"> <img src="https://img.shields.io/badge/-Behance-blue?style=flat&labelColor=blue&logo=behance&logoColor=white" alt="Behance"></a>
 <a href="https://instagram.com/OmarMoffed" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 <a href="https://twitter.com/OmarMoffed" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://facebook.com/OmarMoffed" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
