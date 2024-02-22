@@ -22,7 +22,7 @@ Turning caffeine into insights, I dance with datasets and charm algorithms. If d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQL%20Server%20Integration%20Services%20(SSIS)-FF5722?style=flat&labelColor=FF5722&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Integration Services (SSIS)"> <img src="https://img.shields.io/badge/-SQL%20Server%20Analysis%20Services%20(SSAS)-009688?style=flat&labelColor=009688&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Analysis Services (SSAS)"> 
 
 #### What I'm Currently Trying To Be Better In 🌱 
-- Data Engineering (Extraction, Transformation, Loading) 🛠
+- Data Engineering 🛠
 - Data Management 💞️
   <br><br>
 ##### Let's have a coffee together :speech_balloon:
