@@ -23,7 +23,7 @@ Turning caffeine into insights, I dance with datasets and charm algorithms. If d
 
 #### What I'm Currently Trying To Be Better In 🌱 
 - Data Engineering (Extraction, Transformation, Loading) 🛠
-- Big Data 💞️
+- Data Management 💞️
   <br><br>
 ##### Let's have a coffee together :speech_balloon:
 <a href="mailto:mr.omarmoffed@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-Email-red?style=flat&labelColor=red&logo=mail.ru&logoColor=white" alt="mr.omarmoffed@gmail.com"></a>
