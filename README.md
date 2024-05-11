@@ -11,6 +11,7 @@ Turning caffeine into insights, I dance with datasets and charm algorithms. If d
 - Manage the Life Cycle of Bi Solutions 🌐
 - Develop Analysis Services (Tabular, Multi-Dimensional) Models ✂
 - Develop ETL Packages 🔄
+- Data Visualization ✨
 
 #### The Current Tools I use 🔥 
 - ###### Bi Solutions Tools 🛠
