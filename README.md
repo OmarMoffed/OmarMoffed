@@ -21,14 +21,13 @@ Turning caffeine into insights, I dance with datasets and charm algorithms. If d
 
 
 - ###### Development Environment (IDEs) 🏭
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQL%20Server%20Management%20Studio%20(SSMS)-CC2927?style=flat&labelColor=CC2927&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Management Studio (SSMS)"> <img src="https://img.shields.io/badge/-Oracle%20SQL%20Developer-F80000?style=flat&labelColor=F80000&logo=oracle&logoColor=white" alt="Oracle SQL Developer"> <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Studio-5C2D91?style=flat&labelColor=5C2D91&logo=visual-studio&logoColor=white" alt="Microsoft Visual Studio"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&labelColor=007ACC&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/-Toad%20for%20Oracle-FF7F00?style=flat&labelColor=FF7F00&logoColor=white" alt="Toad for Oracle Badge"> <img src="https://img.shields.io/badge/-Teradata%20Studio-003366?style=flat&labelColor=003366&logo=Teradata&logoColor=white" alt="Teradata Studio Badge"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQL%20Server%20Management%20Studio%20(SSMS)-CC2927?style=flat&labelColor=CC2927&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Management Studio (SSMS)"> <img src="https://img.shields.io/badge/-Oracle%20SQL%20Developer-F80000?style=flat&labelColor=F80000&logo=oracle&logoColor=white" alt="Oracle SQL Developer"> <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Studio-5C2D91?style=flat&labelColor=5C2D91&logo=visual-studio&logoColor=white" alt="Microsoft Visual Studio"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&labelColor=007ACC&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/-Toad%20for%20Oracle-FF7F00?style=flat&labelColor=FF7F00&logoColor=white" alt="Toad for Oracle Badge"> <img src="https://img.shields.io/badge/-Teradata%20Studio-003366?style=flat&labelColor=003366&logo=Teradata&logoColor=white" alt="Teradata Studio Badge"> <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat&labelColor=FF694B&logo=dbt&logoColor=white" alt="dbt Badge"> <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&labelColor=017CEE&logo=apacheairflow&logoColor=white" alt="Apache Airflow Badge">
+
+
 - ###### Data Integration And Mining Tools 📊
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQL%20Server%20Integration%20Services%20(SSIS)-FF5722?style=flat&labelColor=FF5722&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Integration Services (SSIS)"> <img src="https://img.shields.io/badge/-SQL%20Server%20Analysis%20Services%20(SSAS)-009688?style=flat&labelColor=009688&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Analysis Services (SSAS)"> 
 
-#### What I'm Currently Trying To Be Better In 🌱 
-- Data Engineering 🛠
-- Data Management 💞️
-  <br><br>
+
 ##### Let's have a coffee together :speech_balloon:
 <a href="mailto:mr.omarmoffed@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-Email-red?style=flat&labelColor=red&logo=mail.ru&logoColor=white" alt="mr.omarmoffed@gmail.com"></a>
 <a href="https://www.linkedin.com/in/OmarMoffed" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
